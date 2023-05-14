@@ -14,3 +14,10 @@ I'm Kapish from India, and I analyze and explore data based on ml algorithms and
 - 📫 How to reach me: kapishgupta99@gmail.com 
 - 😄 Pronouns: He
 - ⚡ Fun fact: I know it's crazy, but I love to talk a lot !!😁 
+
+## Overview😎
+
+<p>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ruds18&count_private=true&show_icons=true&theme=dark" width="400"></a> 
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ruds18&count_private=true&show_icons=true&theme=dark" width="400"></a>
+</p>
