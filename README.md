@@ -11,7 +11,6 @@ I'm Kapish from India, and I analyze and explore data based on ml algorithms and
 - 🔭 I’m currently working on sentiment analysis 
 - 👯 I’m looking to collaborate on data analyst projects 
 - 🤔 I’m looking for help with backend  
-- 📫 How to reach me: kapishgupta99@gmail.com 
 - 😄 Pronouns: He
 - ⚡ Fun fact: I know it's crazy, but I love to talk a lot !!😁 
 
