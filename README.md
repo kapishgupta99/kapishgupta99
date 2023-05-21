@@ -17,8 +17,8 @@ I'm Kapish from India, and I analyze and explore data based on ml algorithms and
 ## Stats: 
 <p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kapishgupta99&count_private=true&show_icons=true&theme=dark" width="400"></a><br>
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=finiteloop&count_private=true&show_icons=true&theme=dark" width="400"></a> <br>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finiteloop&&hide_progress=true&count_private=true&show_icons=true&theme=dark"     width="400"></a>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kapishgupta99&count_private=true&show_icons=true&theme=dark" width="400"></a> <br>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapishgupta99&&hide_progress=true&count_private=true&show_icons=true&theme=dark"     width="400"></a>
 </p>
 
 ## 📫 How to reach me:
