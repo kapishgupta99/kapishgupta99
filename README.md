@@ -1,6 +1,9 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kapish Gupta😎</h1>
-
-<h1 align="center"> 🚀 Data Analyst</h1>
+<div id="header" align="center">
+  <img align="center" alt="GIF" height="120px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<br> <br>
+</div>
+<div align="center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=pp+mori&weight=600&size=30&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=HELLO%2C+I+AM+KAPISH;WELCOME+TO+MY+PROFILE" alt="Typing SVG" /></a></div>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> <br>
 
 I'm Kapish from India, and I analyze and explore data based on ml algorithms and other awesome frameworks. I am highly passionate about Data Analytics and I also enjoy wireframing and  web development. You can also check out my Twitter or Instagram.
 
